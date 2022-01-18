@@ -22,7 +22,7 @@ public class DB {
 
     // NO-SQL = (Redis, Cassandra, mongoDB)
 
-    // 분류 =  정규화 ,
+    // 분류 =  정규화
 
     // 데이터의 무결성은 중복이 없는 것
 
